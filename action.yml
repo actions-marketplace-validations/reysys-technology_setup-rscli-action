@@ -1,6 +1,9 @@
 name: Setup RSCLI
 description: Setup RSCLI tool for interacting with Reysys services
 author: reysys-technology
+branding:
+  color: green
+  icon: cloud
 inputs:
   version:
     description: Version of rscli to install (default is latest)
